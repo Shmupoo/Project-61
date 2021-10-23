@@ -1,0 +1,55 @@
+body
+{
+  text-align: center;
+}
+
+p
+{
+  font-size: 25px
+}
+
+body
+{
+  background-color: chartreuse;
+}
+img
+{
+  width:1000px;
+}
+
+.menu
+{
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+        
+}
+
+#work
+{
+    background-color: aqua;
+}
+
+#favbooks
+{
+    background-color: coral;
+}
+
+.chriscolfer
+{
+    width: 200px;
+}
+
+.cristiano-ronaldo
+{
+    width: 200px;
+}
+
+img:hover
+{
+    transform: scale(1.1);
+}
